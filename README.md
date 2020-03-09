@@ -1,2 +1,2 @@
 # FizzBuzzMachine
-Simple FizzBuzz Machine that takes user input and is sometimes sassy.
+Simple domain.FizzBuzz Machine that takes user input and is sometimes sassy.
