@@ -10,7 +10,7 @@ public class Main {
             Scanner keyboard = new Scanner(System.in);
             boolean Fizzbuzzing = true;
             while (Fizzbuzzing) {
-                System.out.println("Number to domain.FizzBuzz our way to or 0 to quit: ");
+                System.out.println("Number to FizzBuzz our way to or 0 to quit: ");
                 int numberToFizzBuzzTo = keyboard.nextInt();
                 if (numberToFizzBuzzTo == 0) {
                     Fizzbuzzing = false;
